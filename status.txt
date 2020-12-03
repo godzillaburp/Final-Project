@@ -1,0 +1,29 @@
+# Status Report
+
+#### Your name
+
+Sean McLaughlin
+
+#### Your section leader's name
+
+Tamara Katic
+
+#### Project title
+
+Deep Fried Meme Generator
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+We have researched to find the avenues to take to achieve our goals
+
+#### What have you not done for your project yet?
+
+Coding
+
+#### What problems, if any, have you encountered?
+
+Mainly just finding time to work on it between other projects.
